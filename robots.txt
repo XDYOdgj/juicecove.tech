@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://juicecove.tech/sitemap.xml
